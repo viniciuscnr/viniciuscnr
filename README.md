@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viniciuscnr
-- 👀 I’m interested in litterally everthing coding-related
+- 👀 I’m interested in literally everthing coding-related
 - 🌱 I’m currently learning front-end developing
 - 📫 You can reach me through my email: viniciuscnr@gmail.com
 
