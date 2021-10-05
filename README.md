@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @viniciuscnr
-- 👀 I’m interested in literally everthing coding-related
-- 🌱 I’m currently learning front-end developing
-- 📫 You can reach me through my email: viniciuscnr@gmail.com
+### Hi, my name is Vinícius César!
 
-<!---
-viniciuscnr/viniciuscnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### I'm a computer science student and full stack developer
